@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371119737354",
+    "project_id": "anthar-jala-watch-98d21",
+    "storage_bucket": "anthar-jala-watch-98d21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371119737354:android:4006525bd1b73ad3742df3",
+        "android_client_info": {
+          "package_name": "com.example.anthar_jalawatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371119737354-p48mimbolfeuli7bk9chskfhif93bkh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anthar_jalawatch",
+            "certificate_hash": "e62b768c1a30d8fb5ce4be142a7dd7b739c24813"
+          }
+        },
+        {
+          "client_id": "371119737354-it6edgkma24a72j00uqcduah237u6qhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycBmj-vTXleL18zN21yS1Y8H4WOVwt-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371119737354-it6edgkma24a72j00uqcduah237u6qhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
